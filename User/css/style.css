@@ -1,0 +1,53 @@
+
+.feedback-wrapper{
+   margin-left: 3% ;
+   margin-right: 20%;
+   margin-top: 3%;
+   width: 75%;
+}
+.user-wrapper{
+   margin-left: 5% ;
+   margin-right: 5%; 
+   margin-top: 3%;
+}
+td{
+   padding-left: 4% !important;
+}
+th{
+   padding-left: 4% !important;
+}
+.entry{
+   padding-top: 4%;
+}
+.img-2fa{
+   margin-top: 10%;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+}
+.content-2fa{
+   width:30%;
+   margin: auto;
+   align-content: center;
+}
+input.btn.pink.darken-4.btn-2fa {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.content-2fa-login{
+   margin: auto;
+   width:30%;
+   margin-top: 15%;
+   align-content: center;
+}
+/* .carousel{
+
+position: absolute;
+z-index:-1;
+
+} */
+
+
+
+

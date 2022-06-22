@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule private.ini$ User/Error.php
