@@ -56,7 +56,7 @@ include '../Manager/Authentication.php';
                                  <div class="input-field col s12">
 
                                     <input type="submit" name="user_login" class="btn" value="log in">
-                                    <div class='link'><a href="sign-up.php">Don-t have an account? Sign up</a></div>
+                                    <div class='link'><a href="sign-up.php">Don't have an account? Sign up</a></div>
 
                                  </div>
 

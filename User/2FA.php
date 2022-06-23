@@ -25,7 +25,7 @@ if (isset($_POST["user_2fa_next"])) {
 
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang=`"en">
 
 <head>
     <meta charset="UTF-8">

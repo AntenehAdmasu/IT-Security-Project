@@ -1,3 +1,3 @@
 <?php
-echo "Better luck next time";
+echo "Get the f**k out of here!";
 ?>

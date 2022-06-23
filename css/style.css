@@ -25,7 +25,7 @@
 }
 
 .red{
-   background-color: orange;
+   background-color:yellowgreen;
 }
 
 
@@ -247,7 +247,7 @@ transition: box-shadow .25s;
  }
  
  .tabs .indicator {
-   background-color:#26a69a;
+   background-color:#f5f5f5;
    /*Custom Color Of Indicator*/
  }
  
